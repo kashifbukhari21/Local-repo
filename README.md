@@ -1,1 +1,1 @@
-#this my 1st semester Project which is a simple banking system 
+# This is my 1st semester Project which is a simple banking system 
